@@ -31,3 +31,20 @@ Stack: Python 3, Flask, JSON Storage, Termux / Linux Compatible
 ​Flask (pip install flask)
 ​(Optional) Tor daemon configured with ControlPort 9051 if you want live NEWNYM circuit rotation.
 ​Quick Setup Steps
+## Sample User Credentials (For Testing / Demo)
+
+Standard users can sign in using the sample accounts below (recommended to change passwords after testing):
+
+- **Username:** `user1` | **Password:** `password1`
+- **Username:** `user2` | **Password:** `password2`
+- **Username:** `user3` | **Password:** `password3`
+- **Username:** `user4` | **Password:** `password4`
+- **Username:** `user5` | **Password:** `password5`
+- **Username:** `user6` | **Password:** `password6`
+- **Username:** `user7` | **Password:** `password7`
+- **Username:** `user8` | **Password:** `password8`
+- **Username:** `user9` | **Password:** `password9`
+- **Username:** `user10` | **Password:** `password10`
+
+> **Security Note:** Do not use weak passwords in production or expose real credentials/logs in a public repository. Manage active users and `ON`/`OFF` permissions from the dashboard.
+> 
