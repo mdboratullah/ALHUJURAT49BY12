@@ -1,0 +1,16 @@
+{
+  "users": {
+    "User 0": true,
+    "User 1": true,
+    "User 2": true,
+    "User 3": true,
+    "User 4": true,
+    "User 5": true
+  },
+  "vault_encrypted": {
+    "salt": "M+2Kx1gaHp9/lC95b/ZpEw==",
+    "cipher": "Z5nGv38=",
+    "mac": "1d97190b1f628b510d805730b02e497684261a37b0bb63474e1aac7d37101c31"
+  },
+  "privacy_filter_enabled": true
+}
